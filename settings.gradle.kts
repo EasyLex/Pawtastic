@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Pawtastic"
 include(":app")
+include(":data")
+include(":domain")
